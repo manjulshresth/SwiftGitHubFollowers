@@ -1,6 +1,7 @@
 # SwiftGitHubFollowers
 
 Sean Allen's GitHub Followers project. Course completed to support all the latest iOS versions. All the UI in this project is programmatic!  
+Big shoutout to [Sean Allen](https://github.com/SAllen0400)
 
 
 # Improving Favorite Follower functionality 
